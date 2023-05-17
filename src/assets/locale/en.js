@@ -123,6 +123,7 @@ export const BUTTON = { NEXT: 'Next',
                         LABEL: 'Label',
                         UNSELECT: 'Unselect',
                         VIEW_TEXT: 'View Text',
+                        HELP: 'Help',
                         };
 
 export const DESCRIPTION = 'Description';
@@ -135,7 +136,7 @@ export const STATE_NAMES = { CORNER_NODE_STATE: 'CornerNodeState',
                             NODE_SELECTION_STATE : 'NodeSelectionState',
                             };
 
-export const DISTANCE_LIMIT = 100
+export const DISTANCE_LIMIT = 200
 export const ENABLE_DISTANCE_SENSOR_VIBRATION = true
 export const VIBRATION_DURATION = 100
 export const SERVICE_UUID = '19b10000-e8f2-537e-4f6c-d104768a1214'
